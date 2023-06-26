@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/osabir" alt="osabir's 42 stats" /></a>
 
 <!--
 **otmansabir/otmansabir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

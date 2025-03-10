@@ -1,17 +1,24 @@
-### Hi there 👋
-<a href="https://profile.intra.42.fr/users/osabir"><img src="https://badge.mediaplus.ma/darkblue/osabir" alt="osabir's 42 stats" /></a>
+# otmansabir
 
-<!--
-**otmansabir/otmansabir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the otmansabir repository!
 
-Here are some ideas to get you started:
+## Table of Contents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [About](#about)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## About
+
+A brief description of what this project does and who it's for.
+
+## Installation
+
+Instructions on how to install and set up your project.
+
+```sh
+git clone https://github.com/otmansabir/otmansabir.git
+cd otmansabir

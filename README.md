@@ -1,27 +1,43 @@
-# Hi, I'm Otman Sabir 👋
+# Otman Sabir — Software Developer
 
-🎓 Software Engineering student at **1337 School (42 Network)**  
-💻 Passionate about **C++ development, robotics, and computer vision**  
-🌍 Based in Morocco | Open to global opportunities  
+Passionate software developer and Software Engineering student at 1337 School (42 Network). I design and build reliable software across systems and the web, with a focus on clear design, performance, and readable code. Based in Morocco, open to global opportunities.
 
 ---
 
-## 🔧 Tech Stack
-- **Languages:** C++98, Python, JavaScript, TypeScript  
-- **Frameworks:** Django, React, Next.js  
-- **Tools:** Git, Docker, Linux, SQL, REST APIs  
-- **Interests:** Robotics, Computer Vision, AI  
+## About Me
+- I enjoy turning complex problems into simple, elegant solutions.
+- Strong foundations in algorithms, data structures, and C++.
+- Comfortable across the stack: from containerized services to modern web UIs.
+- Curious about robotics, computer vision, and how AI augments developer workflows.
 
 ---
 
-## 🚀 Projects
-- [Polish Calculator (C++98)](link) – Arithmetic expression solver using stack-based evaluation.  
-- [Custom Array Template (C++98)](link) – Memory-safe container with iterators.  
-- [Scalar Converter (C++98)](link) – Type conversion system with edge case handling.  
-- [Barbershop Web App (Django + React)](link) – Booking platform with authentication.  
+## Tech Stack
+- Languages: C++98, Python, JavaScript, TypeScript, Bash
+- Frontend: React, Next.js
+- Backend: Django, REST APIs
+- DevOps & Tools: Git, Docker, Linux, SQL
+- Interests: Robotics, Computer Vision, AI
 
 ---
 
-## 🌐 Connect
-- [LinkedIn](https://linkedin.com/in/otman-sabir-155420318)  
-- 📧 otmansabir42@gmail.com
+## Featured Projects
+- cpp — Modern C++ exercises and mini‑projects focusing on OOP, templates, and memory management  
+  https://github.com/otmansabir/cpp
+- Inception — Containerized multi‑service stack orchestrated with Docker  
+  https://github.com/otmansabir/Inception
+- ft_transcendence — Full‑stack web application built as part of 42 curriculum  
+  https://github.com/otmansabir/ft_transcendence
+- portfolio — Personal developer portfolio website  
+  https://github.com/otmansabir/portfolio
+
+---
+
+## Education
+- 1337 School (42 Network) — Software Engineering
+
+---
+
+## Get in Touch
+- LinkedIn: https://linkedin.com/in/otman-sabir-155420318
+- Email: otmansabir42@gmail.com

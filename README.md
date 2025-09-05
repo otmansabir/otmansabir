@@ -1,6 +1,6 @@
 # Otman Sabir — Software Developer
 
-Passionate software developer and Software Engineering student at 1337 School (42 Network). I design and build reliable software across systems and the web, with a focus on clear design, performance, and readable code. Based in Morocco, open to global opportunities.
+Software Engineering student at 1337 School (42 Network) and passionate software developer. I design and build reliable software across systems and the web, focusing on clarity, performance, and maintainability. Based in Morocco — open to global opportunities.
 
 ---
 

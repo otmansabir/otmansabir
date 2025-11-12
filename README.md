@@ -28,8 +28,6 @@ Software developer specializing in C++ and full‑stack web, trained at 1337 Sch
   https://github.com/otmansabir/Inception
 - ft_transcendence — Full‑stack web application built as part of 42 curriculum  
   https://github.com/otmansabir/ft_transcendence
-- portfolio — Personal developer portfolio website  
-  https://github.com/otmansabir/portfolio
 
 ---
 

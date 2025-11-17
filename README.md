@@ -37,5 +37,5 @@ Software developer specializing in C++ and full‑stack web, trained at 1337 Sch
 ---
 
 ## Get in Touch
-- LinkedIn: https://linkedin.com/in/otman-sabir-155420318
+- LinkedIn: https://linkedin.com/in/otman-sabir
 - Email: otmansabir42@gmail.com
